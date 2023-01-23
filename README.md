@@ -2,6 +2,9 @@
 
 I am an undergraduate CS major with experience in multiple languages.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficon%2Fjavascript-2038874&psig=AOvVaw215bizyEWLTTs17dzDkvGO&ust=1674544243942000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLDajciR3fwCFQAAAAAdAAAAABAE) ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fpython_5968350&psig=AOvVaw3PqW0VGGq1F1bDcswcHoXj&ust=1674544329451000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCJxPGR3fwCFQAAAAAdAAAAABAE) ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-nwvsu&psig=AOvVaw37gf-0M_DFZJCFMYbJZtAZ&ust=1674544350723000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKCQw_uR3fwCFQAAAAAdAAAAABAS)
+![png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue](https://user-images.githubusercontent.com/37131666/213984343-01990357-0788-47fb-a00e-7590b78d3925.png)![javascript-2038874-1720087](https://user-images.githubusercontent.com/37131666/213984355-0bc3733c-9d96-4a75-b0c3-b11b716c835d.png)![4990671](https://user-images.githubusercontent.com/37131666/213984367-cd8117d1-ff91-4531-ba0a-48e7d3a7a1f7.png)
+
+
+
 
 I have experience in both backend and frontend development. I am also looking into diving into other fields, such as AI.
