@@ -5,7 +5,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LordOfDeadbush&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfDeadbush&langs_count=10&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 I am an undergraduate CS major with experience in multiple languages.
