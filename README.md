@@ -7,6 +7,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LordOfDeadbush&langs_count=10&theme=transparent&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/LordOfDeadbush)](https://leetcode.com/LordOfDeadbush)
+
 
 I am an undergraduate CS major with experience in multiple languages.
 
