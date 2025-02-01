@@ -10,9 +10,9 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/LordOfDeadbush)](https://leetcode.com/LordOfDeadbush)
 
 
-I am an undergraduate CS major with experience in multiple languages.
+I am an undergraduate Electrical Engineering and Music major with experience in multiple programming languages.
 
-I have experience in both backend and frontend development. I am also looking into diving into other fields, such as AI.
+I have experience in both backend and frontend development. I am also looking into diving into other fields, such as AI. I also have a lot of experience with hardware.
 
-Also a flight sim enthusaist and musician.
+Also a flight sim enthusaist.
 
